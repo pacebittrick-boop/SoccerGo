@@ -1,2 +1,1 @@
-# SoccerGo
-All your coaching help in one place
+# Go Coach — PWA\n\nRun `npm install` then `npm run start`

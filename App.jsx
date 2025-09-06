@@ -1,0 +1,1 @@
+// App.jsx placeholder (full code from canvas goes here)

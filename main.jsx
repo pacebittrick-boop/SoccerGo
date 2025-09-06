@@ -1,0 +1,1 @@
+// main.jsx placeholder (React entry point)
